@@ -49,7 +49,7 @@ Sistem ini adalah aplikasi web sederhana yang memberikan **rekomendasi film dan 
 ### 1. Clone atau Salin Project
 
 ```bash
-git clone https://github.com/MdnXD/flixrec.git
+[git clone https://github.com/MdnXD/flixrec.git](https://github.com/MdnXD/FlixRec)
 ```
 
 Atau salin ke folder `htdocs` jika pakai XAMPP:
